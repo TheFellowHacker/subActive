@@ -32,7 +32,7 @@
 
 
 ```bash
-  git clone https://github.com/hackytam/subActive.git
+  git clone https://github.com/TheFellowHacker/subActive.git
   cd subActive
   chmod +x subActive
   ./subActive.sh -h
@@ -75,8 +75,8 @@ Follow me on
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hackytam"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-  <a href="https://medium.com/@hackertam1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
-  <a href="https://twitter.com/hackytam"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+  <a href="https://www.linkedin.com/in/thefellowhacker"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="https://medium.com/@thefellowhacker"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
+  <a href="https://twitter.com/thefellowhacker"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 </p>
 Made with ❤️ by Tahir Mujawar
